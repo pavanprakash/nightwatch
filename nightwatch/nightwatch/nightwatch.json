@@ -1,0 +1,47 @@
+{
+  "src_folders" : ["./tests"],
+  "output_folder" : "./reports",
+  "custom_commands_path" : "",
+  "custom_assertions_path" : "",
+  "globals_path" : "",
+  
+  "selenium" : {
+    "start_process" : true,
+    "server_path" : "selenium-server-standalone-2.43.1.jar",
+    "log_path" : "",
+    "host" : "127.0.0.1",
+    "port" : 4444,
+    "cli_args" : {
+      "webdriver.chrome.driver" : "chromedriver.exe",
+      "webdriver.ie.driver" : ""
+    }  
+  },
+  
+  "test_settings" : {
+    "default" : {
+      "launch_url" : "http://test-hotels4uv2.h4u.me",
+      "selenium_port"  : 4444,
+      "selenium_host"  : "localhost",
+       "exclude":["./tests/E2EBookingJourney.js"],
+      "silent": true,
+      "screenshots" : {
+        "enabled" : true,
+        "path" : "./screenshots"
+      },
+      "desiredCapabilities": {
+        "browserName": "firefox",
+        "platform": "WIN8",
+        "javascriptEnabled": true,
+        "acceptSslCerts": true
+      }
+    },
+    
+    "chrome" : {
+      "desiredCapabilities": {
+        "browserName": "chrome",
+        "javascriptEnabled": true,
+        "acceptSslCerts": true
+      }
+    }
+  }
+ }

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites name="test"
+             errors="0"
+             failures="0"
+             tests="5">
+  
+  <testsuite errors="0" failures="0" hostname="" id=""
+    name="Verify if Destination List is Present and has many Destinations" package="test" skipped="0"
+    tests="5" time="" timestamp="">
+    
+    
+      <testcase name="Home Page is Loaded!">
+        
+        
+      </testcase>
+    
+      <testcase name="Destination Page is Loaded!">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified if Destinations List is visible">
+        
+        
+      </testcase>
+    
+      <testcase name="Destination Page for: Sharm El Sheikh Area is Loaded!">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified if Image is present for a hotel under Top 5* hotels section">
+        
+        
+      </testcase>
+    
+    
+    </testsuite>
+  
+</testsuites>

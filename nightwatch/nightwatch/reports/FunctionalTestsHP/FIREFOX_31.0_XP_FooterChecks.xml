@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites name="FooterChecks"
+             errors="0"
+             failures="1"
+             tests="12">
+  
+  <testsuite errors="0" failures="1" hostname="" id=""
+    name="Verify if there are 4 major Hotel Destinations Tabs in the footer section" package="FooterChecks" skipped="11"
+    tests="12" time="" timestamp="">
+    
+    
+      <testcase name="Home Page is Loaded!">
+        
+          <failure message="Expected &quot;visible&quot; but got: &quot;not found&quot;"></failure>
+        
+        
+          <system-out>
+            
+              [[ATTACHMENT|C:\Users\pavan.prakash\Desktop\nightwatch\screenshots\ERROR_Mon-Aug-18-2014-094547-GMT+0100.png]]
+            
+          </system-out>
+        
+      </testcase>
+    
+    
+      <system-err>
+        Unable to locate element: &quot;#topDestinationsList &gt; li:nth-child(1) &gt; div &gt; div.action-panel &gt; p &gt; span.rate&quot; using: css selector
+      </system-err>
+    
+    </testsuite>
+  
+</testsuites>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites name="SimpleSearch"
+             errors="0"
+             failures="0"
+             tests="4">
+  
+  <testsuite errors="0" failures="0" hostname="" id=""
+    name="Enter the search criteria and verify results" package="SimpleSearch" skipped="0"
+    tests="4" time="" timestamp="">
+    
+    
+      <testcase name="Home Page is Loaded!">
+        
+        
+      </testcase>
+    
+      <testcase name="Results Page Loaded">
+        
+        
+      </testcase>
+    
+      <testcase name="Destination Label present">
+        
+        
+      </testcase>
+    
+      <testcase name="Assertion passed: Verified if Results are displayed for destination chosen before">
+        
+        
+      </testcase>
+    
+    
+      <system-err>
+        Unable to locate element: &quot;#topDestinationsList &gt; li:nth-child(1) &gt; div &gt; div.action-panel &gt; p &gt; span.rate&quot; using: css selector
+      </system-err>
+    
+    </testsuite>
+  
+</testsuites>

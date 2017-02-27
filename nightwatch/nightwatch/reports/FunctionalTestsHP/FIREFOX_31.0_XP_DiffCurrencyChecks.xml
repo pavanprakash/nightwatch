@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites name="DiffCurrencyChecks"
+             errors="1"
+             failures="1"
+             tests="22">
+  
+  <testsuite errors="0" failures="0" hostname="" id=""
+    name="Verify different currencies available in the list on the home page" package="DiffCurrencyChecks" skipped="0"
+    tests="7" time="" timestamp="">
+    
+    
+      <testcase name="Home Page is Loaded!">
+        
+        
+      </testcase>
+    
+      <testcase name="Destination Page is Loaded!">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified if currency dropdown list is visible">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified currency exists in the list, which is: AUD">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified currency exists in the list, which is: EUR">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified currency exists in the list, which is: GBP">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified currency exists in the list, which is: USD">
+        
+        
+      </testcase>
+    
+    
+      <system-err>
+        Unable to locate element: &quot;#topDestinationsList &gt; li:nth-child(1) &gt; div &gt; div.action-panel &gt; p &gt; span.rate&quot; using: css selector
+      </system-err>
+    
+    </testsuite>
+  
+  <testsuite errors="1" failures="1" hostname="" id=""
+    name="Change Currency and verify the change" package="DiffCurrencyChecks" skipped="11"
+    tests="15" time="" timestamp="">
+    
+    
+      <testcase name="Home Page is Loaded!">
+        
+        
+      </testcase>
+    
+      <testcase name="Destination Page is Loaded!">
+        
+        
+      </testcase>
+    
+      <testcase name="Assertion passed: Verified: AUD Currency is selected correctly">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified if the prices are displayed in AUD">
+        
+          <failure message="Expected &quot;$&quot; but got: &quot;null&quot;"></failure>
+        
+        
+          <system-out>
+            
+              [[ATTACHMENT|C:\Users\pavan.prakash\Desktop\nightwatch\screenshots\ERROR_Mon-Aug-18-2014-094539-GMT+0100.png]]
+            
+          </system-out>
+        
+      </testcase>
+    
+    
+      <system-err>
+        Unable to locate element: &quot;#topDestinationsList &gt; li:nth-child(1) &gt; div &gt; div.action-panel &gt; p &gt; span.rate&quot; using: css selector
+      </system-err>
+    
+    </testsuite>
+  
+</testsuites>

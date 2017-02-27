@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites name="DiffCurrencyChecks"
+             errors="0"
+             failures="0"
+             tests="5">
+  
+  <testsuite errors="0" failures="0" hostname="" id=""
+    name="Verify different currencies available in the list on the home page" package="DiffCurrencyChecks" skipped="5"
+    tests="5" time="" timestamp="">
+    
+    
+    
+      <system-err>
+        Cannot read property &#39;assert&#39; of undefined
+      </system-err>
+    
+    </testsuite>
+  
+</testsuites>

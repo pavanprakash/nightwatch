@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites name="e2ebookingjourney"
+             errors="0"
+             failures="1"
+             tests="2">
+  
+  <testsuite errors="0" failures="1" hostname="" id=""
+    name="Load Homepage" package="e2ebookingjourney" skipped="1"
+    tests="2" time="" timestamp="">
+    
+    
+      <testcase name="Home Page is Loaded!">
+        
+          <failure message="Expected &quot;visible&quot; but got: &quot;not found&quot;"></failure>
+        
+        
+          <system-out>
+            
+              [[ATTACHMENT|C:\Users\pavan.prakash\Desktop\nightwatch\screenshots\ERROR_Fri-Aug-29-2014-093908-GMT+0100.png]]
+            
+          </system-out>
+        
+      </testcase>
+    
+    
+    </testsuite>
+  
+</testsuites>

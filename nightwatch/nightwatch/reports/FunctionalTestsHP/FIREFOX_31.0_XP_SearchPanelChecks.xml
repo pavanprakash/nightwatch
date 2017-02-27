@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites name="SearchPanelChecks"
+             errors="0"
+             failures="0"
+             tests="12">
+  
+  <testsuite errors="0" failures="0" hostname="" id=""
+    name="Verify if destination field is visible" package="SearchPanelChecks" skipped="0"
+    tests="3" time="" timestamp="">
+    
+    
+      <testcase name="Home Page is Loaded!">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified Destination field is visible">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified Destination List is visible when 3 characters are typed">
+        
+        
+      </testcase>
+    
+    
+      <system-err>
+        Unable to locate element: &quot;#topDestinationsList &gt; li:nth-child(1) &gt; div &gt; div.action-panel &gt; p &gt; span.rate&quot; using: css selector
+      </system-err>
+    
+    </testsuite>
+  
+  <testsuite errors="0" failures="0" hostname="" id=""
+    name="Verify if Banner field (below seacrh panel) is visible" package="SearchPanelChecks" skipped="0"
+    tests="3" time="" timestamp="">
+    
+    
+      <testcase name="Home Page is Loaded!">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified Banner field 1 is visible">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified Banner field 2 (promises) is visible">
+        
+        
+      </testcase>
+    
+    
+      <system-err>
+        Unable to locate element: &quot;#topDestinationsList &gt; li:nth-child(1) &gt; div &gt; div.action-panel &gt; p &gt; span.rate&quot; using: css selector
+      </system-err>
+    
+    </testsuite>
+  
+  <testsuite errors="0" failures="0" hostname="" id=""
+    name="Verify if Occupancy field is visible" package="SearchPanelChecks" skipped="0"
+    tests="6" time="" timestamp="">
+    
+    
+      <testcase name="Home Page is Loaded!">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified Occupancy field is visible">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified Occupancy popup field is visible">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified if Default value for occupancy field is 2 adults and 0 children">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified that Room 2 text is present">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified if Default value for occupancy field is 2 adults and 0 children">
+        
+        
+      </testcase>
+    
+    
+      <system-err>
+        Unable to locate element: &quot;#topDestinationsList &gt; li:nth-child(1) &gt; div &gt; div.action-panel &gt; p &gt; span.rate&quot; using: css selector
+      </system-err>
+    
+    </testsuite>
+  
+</testsuites>

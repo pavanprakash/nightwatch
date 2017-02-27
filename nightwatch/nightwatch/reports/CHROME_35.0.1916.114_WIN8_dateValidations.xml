@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites name="dateValidations"
+             errors="0"
+             failures="0"
+             tests="6">
+  
+  <testsuite errors="0" failures="0" hostname="" id=""
+    name="Verify if Checkin Date is visible and is today&#39;s date" package="dateValidations" skipped="0"
+    tests="3" time="" timestamp="">
+    
+    
+      <testcase name="Home Page is Loaded!">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified Check in Date field is visible">
+        
+        
+      </testcase>
+    
+      <testcase name="Assertion passed: Verified if Check in Date displayed is Todays Date">
+        
+        
+      </testcase>
+    
+    
+    </testsuite>
+  
+  <testsuite errors="0" failures="0" hostname="" id=""
+    name="Verify if Checkout Date is visible and is Tomorrow&#39;s date" package="dateValidations" skipped="0"
+    tests="3" time="" timestamp="">
+    
+    
+      <testcase name="Home Page is Loaded!">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified Check Out Date field is visible">
+        
+        
+      </testcase>
+    
+      <testcase name="Assertion passed: Verified if Checkout Date displayed is Tomorrows Date">
+        
+        
+      </testcase>
+    
+    
+    </testsuite>
+  
+</testsuites>

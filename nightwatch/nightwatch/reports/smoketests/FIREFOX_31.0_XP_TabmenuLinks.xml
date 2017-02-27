@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites name="TabmenuLinks"
+             errors="0"
+             failures="1"
+             tests="22">
+  
+  <testsuite errors="0" failures="0" hostname="" id=""
+    name="Verify if Late Deals Link is navigating to the correct page" package="TabmenuLinks" skipped="0"
+    tests="3" time="" timestamp="">
+    
+    
+      <testcase name="Home Page is Loaded!">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified Late Deals Navigates Link to Late Availability Rooms Page">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified if header text is Late Deals">
+        
+        
+      </testcase>
+    
+    
+      <system-err>
+        Unable to locate element: &quot;#topDestinationsList &gt; li:nth-child(1) &gt; div &gt; div.action-panel &gt; p &gt; span.rate&quot; using: css selector
+      </system-err>
+    
+    </testsuite>
+  
+  <testsuite errors="0" failures="0" hostname="" id=""
+    name="Verify if City Breaks Link is navigating to the correct page" package="TabmenuLinks" skipped="0"
+    tests="3" time="" timestamp="">
+    
+    
+      <testcase name="Home Page is Loaded!">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified City Breaks Navigates Link to City Hotels Page">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified if header text is Beach City Hotel Deals">
+        
+        
+      </testcase>
+    
+    
+      <system-err>
+        Unable to locate element: &quot;#topDestinationsList &gt; li:nth-child(1) &gt; div &gt; div.action-panel &gt; p &gt; span.rate&quot; using: css selector
+      </system-err>
+    
+    </testsuite>
+  
+  <testsuite errors="0" failures="0" hostname="" id=""
+    name="Verify if Beach Hotels Link is navigating to the correct page" package="TabmenuLinks" skipped="0"
+    tests="3" time="" timestamp="">
+    
+    
+      <testcase name="Home Page is Loaded!">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified Beach Hotels Link Navigates to correct Page">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified if header text is Beach Hotels">
+        
+        
+      </testcase>
+    
+    
+      <system-err>
+        Unable to locate element: &quot;#topDestinationsList &gt; li:nth-child(1) &gt; div &gt; div.action-panel &gt; p &gt; span.rate&quot; using: css selector
+      </system-err>
+    
+    </testsuite>
+  
+  <testsuite errors="0" failures="0" hostname="" id=""
+    name="Verify if Ski Hotels Link is navigating to the correct page" package="TabmenuLinks" skipped="0"
+    tests="3" time="" timestamp="">
+    
+    
+      <testcase name="Home Page is Loaded!">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified Ski Hotels Link Navigates to correct Page">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified if header text is Top Ski Hotel Deals">
+        
+        
+      </testcase>
+    
+    
+      <system-err>
+        Unable to locate element: &quot;#topDestinationsList &gt; li:nth-child(1) &gt; div &gt; div.action-panel &gt; p &gt; span.rate&quot; using: css selector
+      </system-err>
+    
+    </testsuite>
+  
+  <testsuite errors="0" failures="0" hostname="" id=""
+    name="Verify if UK &amp; Ireland Link is navigating to the correct page" package="TabmenuLinks" skipped="0"
+    tests="3" time="" timestamp="">
+    
+    
+      <testcase name="Home Page is Loaded!">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified UK &amp; Ireland Link Navigates to correct Page">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified if header text is UK &amp; Ireland Hotel Deals">
+        
+        
+      </testcase>
+    
+    
+      <system-err>
+        Unable to locate element: &quot;#topDestinationsList &gt; li:nth-child(1) &gt; div &gt; div.action-panel &gt; p &gt; span.rate&quot; using: css selector
+      </system-err>
+    
+    </testsuite>
+  
+  <testsuite errors="0" failures="0" hostname="" id=""
+    name="Verify if All Inclusive Hotels Link is navigating to the correct page" package="TabmenuLinks" skipped="0"
+    tests="3" time="" timestamp="">
+    
+    
+      <testcase name="Home Page is Loaded!">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified All Inclusive Link Hotels Link Navigates to correct Page">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified if header text is All Inclusive Hotel Deals">
+        
+        
+      </testcase>
+    
+    
+      <system-err>
+        Unable to locate element: &quot;#topDestinationsList &gt; li:nth-child(1) &gt; div &gt; div.action-panel &gt; p &gt; span.rate&quot; using: css selector
+      </system-err>
+    
+    </testsuite>
+  
+  <testsuite errors="0" failures="1" hostname="" id=""
+    name="Verify if Destinations Link is navigating to the correct page" package="TabmenuLinks" skipped="2"
+    tests="4" time="" timestamp="">
+    
+    
+      <testcase name="Home Page is Loaded!">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified Destinations Link Navigates to correct Page">
+        
+          <failure message="Expected &quot;http://prelive-hotels4u.h4u.me/hotels.aspx&quot; but got: &quot;http://prelive-hotels4uv2.h4u.me/destination&quot;"></failure>
+        
+        
+      </testcase>
+    
+    
+      <system-err>
+        Unable to locate element: &quot;#topDestinationsList &gt; li:nth-child(1) &gt; div &gt; div.action-panel &gt; p &gt; span.rate&quot; using: css selector
+      </system-err>
+    
+    </testsuite>
+  
+</testsuites>

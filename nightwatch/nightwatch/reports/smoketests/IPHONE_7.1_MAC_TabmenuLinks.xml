@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites name="TabmenuLinks"
+             errors="0"
+             failures="1"
+             tests="4">
+  
+  <testsuite errors="0" failures="1" hostname="" id=""
+    name="Verify if Late Deals Link is navigating to the correct page" package="TabmenuLinks" skipped="2"
+    tests="4" time="" timestamp="">
+    
+    
+      <testcase name="Home Page is Loaded!">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified Late Deals Navigates Link to Late Availability Rooms Page">
+        
+          <failure message="Expected &quot;http://prelive-hotels4uv2.h4u.me/late-availability-rooms&quot; but got: &quot;http://prelive-hotels4uv2.h4u.me/&quot;"></failure>
+        
+        
+      </testcase>
+    
+    
+    </testsuite>
+  
+</testsuites>

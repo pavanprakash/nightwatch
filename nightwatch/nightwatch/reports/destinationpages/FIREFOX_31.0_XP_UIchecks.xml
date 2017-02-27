@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites name="UIchecks"
+             errors="0"
+             failures="0"
+             tests="40">
+  
+  <testsuite errors="0" failures="0" hostname="" id=""
+    name="Verify if Destination Page and Header is visible" package="UIchecks" skipped="0"
+    tests="5" time="" timestamp="">
+    
+    
+      <testcase name="Home Page is Loaded!">
+        
+        
+      </testcase>
+    
+      <testcase name="Destination Page is Loaded!">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified the url is correct for destination page opened">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified if the Header Text is Destinations">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified if Intro Content under Destination Header is visible">
+        
+        
+      </testcase>
+    
+    
+    </testsuite>
+  
+  <testsuite errors="0" failures="0" hostname="" id=""
+    name="Verify if Destination List is Present and has many Destinations" package="UIchecks" skipped="0"
+    tests="35" time="" timestamp="">
+    
+    
+      <testcase name="Home Page is Loaded!">
+        
+        
+      </testcase>
+    
+      <testcase name="Destination Page is Loaded!">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified if Destinations List is visible">
+        
+        
+      </testcase>
+    
+      <testcase name="Destination Page for: Sharm El Sheikh Area is Loaded!">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified Destination Page is opened for the destination selected which is: Sharm El Sheikh Area">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified if header text for Top 5* Hotels is for Sharm El Sheikh Area">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified if Hotels Panel is visible under Top 5* Hotels section">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified if Image is present for a hotel under Top 5* hotels section">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified if Hotel Name is present for a hotel under Top 5* hotels section">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified if Star Rating is present for a hotel under Top 5* hotels section">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified if Area is present for a hotel under Top 5* hotels section and is: Sharm El Sheikh Area">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified if View All is present for a hotel under Top 5* hotels section">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified if header text for Top 4* Hotels is for Sharm El Sheikh Area">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified if Hotels Panel is visible under Top 4* Hotels section">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified if Image is present for a hotel under Top 4* hotels section">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified if Hotel Name is present for a hotel under Top 4* hotels section">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified if Star Rating is present for a hotel under Top 4* hotels section">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified if Area is present for a hotel under Top 4* hotels section and is: Sharm El Sheikh Area">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified if View All is present for a hotel under Top 4* hotels section">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified if header text for Top 3* Hotels is for Sharm El Sheikh Area">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified if Hotels Panel is visible under Top 3* Hotels section">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified if Image is present for a hotel under Top 3* hotels section">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified if Hotel Name is present for a hotel under Top 3* hotels section">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified if Star Rating is present for a hotel under Top 3* hotels section">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified if Area is present for a hotel under Top 3* hotels section and is: Sharm El Sheikh Area">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified if View All is present for a hotel under Top 3* hotels section">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified if header text for Top 3* Hotels is for Sharm El Sheikh Area">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified if Flag Icon is Present in ABout Destination section">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified if About Destination Panel is present">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified if Weather Information Header Text is present">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified if Weather Information Section is present">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified if Google Maps section is present">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified if header text for Hotel Destinations is Present">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified if Hotel Destinations Panel">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified if About Destination Panel is present">
+        
+        
+      </testcase>
+    
+    
+    </testsuite>
+  
+</testsuites>

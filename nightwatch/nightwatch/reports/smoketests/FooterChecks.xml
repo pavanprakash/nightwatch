@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites name="FooterChecks"
+             errors="0"
+             failures="0"
+             tests="3">
+  
+  <testsuite errors="0" failures="0" hostname="" id=""
+    name="Verify if there are 4 major Hotel Destinations Tabs in the footer section" package="FooterChecks" skipped="3"
+    tests="3" time="" timestamp="">
+    
+    
+    
+      <system-err>
+        Object #&lt;Object&gt; has no method &#39;ElementPresent&#39;
+      </system-err>
+    
+    </testsuite>
+  
+</testsuites>

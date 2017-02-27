@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites name="DiffCurrencyChecks"
+             errors="0"
+             failures="1"
+             tests="20">
+  
+  <testsuite errors="0" failures="0" hostname="" id=""
+    name="Verify different currencies available in the list on the home page" package="DiffCurrencyChecks" skipped="0"
+    tests="6" time="" timestamp="">
+    
+    
+      <testcase name="Home Page is Loaded!">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified if currency dropdown list is visible">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified currency exists in the list, which is: AUD">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified currency exists in the list, which is: EUR">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified currency exists in the list, which is: GBP">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified currency exists in the list, which is: USD">
+        
+        
+      </testcase>
+    
+    
+    </testsuite>
+  
+  <testsuite errors="0" failures="1" hostname="" id=""
+    name="Change Currency and verify the change" package="DiffCurrencyChecks" skipped="12"
+    tests="14" time="" timestamp="">
+    
+    
+      <testcase name="Home Page is Loaded!">
+        
+        
+      </testcase>
+    
+      <testcase name="Assertion failed: Verified AUD Currency is selected correctly">
+        
+          <failure message="Expected &quot;AUD&quot; but got: &quot;GBP&quot;"></failure>
+        
+        
+      </testcase>
+    
+    
+    </testsuite>
+  
+</testsuites>

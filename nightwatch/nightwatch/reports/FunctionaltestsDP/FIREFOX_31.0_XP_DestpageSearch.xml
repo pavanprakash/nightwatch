@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites name="DestpageSearch"
+             errors="0"
+             failures="0"
+             tests="5">
+  
+  <testsuite errors="0" failures="0" hostname="" id=""
+    name="Enter the search criteria and verify results" package="DestpageSearch" skipped="0"
+    tests="5" time="" timestamp="">
+    
+    
+      <testcase name="Home Page is Loaded!">
+        
+        
+      </testcase>
+    
+      <testcase name="Destination Page is Loaded!">
+        
+        
+      </testcase>
+    
+      <testcase name="Results Page Loaded">
+        
+        
+      </testcase>
+    
+      <testcase name="Destination Label present">
+        
+        
+      </testcase>
+    
+      <testcase name="Assertion passed: Verified if Results are displayed for destination: Sharm El Sheikh Area, Egypt">
+        
+        
+      </testcase>
+    
+    
+      <system-err>
+        Unable to locate element: &quot;#multiWidget &gt; h3&quot; using: css selector
+      </system-err>
+    
+    </testsuite>
+  
+</testsuites>

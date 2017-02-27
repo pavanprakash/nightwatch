@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites name="dateValidations"
+             errors="0"
+             failures="0"
+             tests="6">
+  
+  <testsuite errors="0" failures="0" hostname="" id=""
+    name="Verify if Checkin Date is visible and is today&#39;s date" package="dateValidations" skipped="0"
+    tests="3" time="" timestamp="">
+    
+    
+      <testcase name="Home Page is Loaded!">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified Check in Date field is visible">
+        
+        
+      </testcase>
+    
+      <testcase name="Assertion passed: Verified if Check in Date displayed is Todays Date">
+        
+        
+      </testcase>
+    
+    
+      <system-err>
+        Unable to locate element: &quot;#ui-datepicker-div &gt; div &gt; a.ui-datepicker-next.ui-corner-all &gt; span&quot; using: css selector
+Unable to locate element: &quot;#ui-datepicker-div &gt; div &gt; a.ui-datepicker-next.ui-corner-all &gt; span&quot; using: css selector
+Unable to locate element: &quot;#ui-datepicker-div &gt; div &gt; a.ui-datepicker-next.ui-corner-all &gt; span&quot; using: css selector
+Unable to locate element: &quot;#ui-datepicker-div &gt; table &gt; tbody &gt; tr:nth-child(1) &gt; td:nth-child(7) &gt; a&quot; using: css selector
+Unable to locate element: &quot;#ui-datepicker-div &gt; table &gt; tbody &gt; tr:nth-child(2) &gt; td:nth-child(3) &gt; a&quot; using: css selector
+      </system-err>
+    
+    </testsuite>
+  
+  <testsuite errors="0" failures="0" hostname="" id=""
+    name="Verify if Checkout Date is visible and is Tomorrow&#39;s date" package="dateValidations" skipped="0"
+    tests="3" time="" timestamp="">
+    
+    
+      <testcase name="Home Page is Loaded!">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified Check Out Date field is visible">
+        
+        
+      </testcase>
+    
+      <testcase name="Assertion passed: Verified if Checkout Date displayed is Tomorrows Date">
+        
+        
+      </testcase>
+    
+    
+      <system-err>
+        Unable to locate element: &quot;#ui-datepicker-div &gt; div &gt; a.ui-datepicker-next.ui-corner-all &gt; span&quot; using: css selector
+Unable to locate element: &quot;#ui-datepicker-div &gt; div &gt; a.ui-datepicker-next.ui-corner-all &gt; span&quot; using: css selector
+Unable to locate element: &quot;#ui-datepicker-div &gt; div &gt; a.ui-datepicker-next.ui-corner-all &gt; span&quot; using: css selector
+Unable to locate element: &quot;#ui-datepicker-div &gt; table &gt; tbody &gt; tr:nth-child(1) &gt; td:nth-child(7) &gt; a&quot; using: css selector
+Unable to locate element: &quot;#ui-datepicker-div &gt; table &gt; tbody &gt; tr:nth-child(2) &gt; td:nth-child(3) &gt; a&quot; using: css selector
+      </system-err>
+    
+    </testsuite>
+  
+</testsuites>

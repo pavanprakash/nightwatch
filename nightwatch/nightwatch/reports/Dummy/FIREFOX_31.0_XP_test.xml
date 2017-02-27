@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites name="test"
+             errors="0"
+             failures="0"
+             tests="5">
+  
+  <testsuite errors="0" failures="0" hostname="" id=""
+    name="Blank Test" package="test" skipped="0"
+    tests="5" time="" timestamp="">
+    
+    
+      <testcase name="Home Page is Loaded!">
+        
+        
+      </testcase>
+    
+      <testcase name="Results Page is loaded!">
+        
+        
+      </testcase>
+    
+      <testcase name="Assertion passed: Successfully verified that hotel selected from results page is correct">
+        
+        
+      </testcase>
+    
+      <testcase name="Booking Info Page is Loaded">
+        
+        
+      </testcase>
+    
+      <testcase name="Assertion passed: Successfully verified correct Hotel is displayed on Booking Info Page">
+        
+        
+      </testcase>
+    
+    
+    </testsuite>
+  
+</testsuites>

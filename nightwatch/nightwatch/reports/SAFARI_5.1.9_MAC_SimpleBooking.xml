@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites name="SimpleBooking"
+             errors="0"
+             failures="1"
+             tests="3">
+  
+  <testsuite errors="0" failures="0" hostname="" id=""
+    name="Load Homepage" package="SimpleBooking" skipped="0"
+    tests="1" time="" timestamp="">
+    
+    
+      <testcase name="Home Page is Loaded!">
+        
+        
+      </testcase>
+    
+    
+    </testsuite>
+  
+  <testsuite errors="0" failures="1" hostname="" id=""
+    name="Enter Destination and stay dates" package="SimpleBooking" skipped="1"
+    tests="2" time="" timestamp="">
+    
+    
+      <testcase name="Results Page is loaded!">
+        
+          <failure message="Expected &quot;visible&quot; but got: &quot;not found&quot;"></failure>
+        
+        
+      </testcase>
+    
+    
+    </testsuite>
+  
+</testsuites>

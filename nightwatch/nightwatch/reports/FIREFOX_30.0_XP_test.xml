@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites name="test"
+             errors="0"
+             failures="1"
+             tests="9">
+  
+  <testsuite errors="0" failures="1" hostname="" id=""
+    name="Verify if Destination List is Present and has many Destinations" package="test" skipped="7"
+    tests="9" time="" timestamp="">
+    
+    
+      <testcase name="Home Page is Loaded!">
+        
+        
+      </testcase>
+    
+      <testcase name="Destination Page is Loaded!">
+        
+          <failure message="Expected &quot;visible&quot; but got: &quot;not found&quot;"></failure>
+        
+        
+      </testcase>
+    
+    
+    </testsuite>
+  
+</testsuites>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites name="loadhomepage"
+             errors="0"
+             failures="0"
+             tests="3">
+  
+  <testsuite errors="0" failures="0" hostname="" id=""
+    name="Verify if Checkout Date is visible and is Tomorrow&#39;s date" package="loadhomepage" skipped="0"
+    tests="3" time="" timestamp="">
+    
+    
+      <testcase name="Home Page is Loaded!">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified Check Out Date field is visible">
+        
+        
+      </testcase>
+    
+      <testcase name="Assertion passed: Verified if Checkout Date displayed is Tomorrows Date">
+        
+        
+      </testcase>
+    
+    
+    </testsuite>
+  
+</testsuites>

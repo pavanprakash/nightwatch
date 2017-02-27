@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites name="FooterChecks"
+             errors="0"
+             failures="1"
+             tests="21">
+  
+  <testsuite errors="0" failures="0" hostname="" id=""
+    name="Verify if there are 4 major Hotel Destinations Tabs in the footer section" package="FooterChecks" skipped="0"
+    tests="8" time="" timestamp="">
+    
+    
+      <testcase name="Home Page is Loaded!">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified Hotel Destinations tab section exists in the footer area">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified Hotel Destination Tab exists in the list, which is: City Breaks">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified Hotel Destination Tab exists in the list, which is: Beach Hotels">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified Hotel Destination Tab exists in the list, which is: Uk &amp; Ireland">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified Hotel Destination Tab exists in the list, which is: All Inclusive">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified Late Deals Navigates Link to Late Availability Rooms Page">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified if header text is Late Deals">
+        
+        
+      </testcase>
+    
+    
+      <system-err>
+        Unable to locate element: &quot;#topDestinationsList &gt; li:nth-child(1) &gt; div &gt; div.action-panel &gt; p &gt; span.rate&quot; using: css selector
+      </system-err>
+    
+    </testsuite>
+  
+  <testsuite errors="0" failures="1" hostname="" id=""
+    name="Verify if City Breaks Tab displays all the configured hotels" package="FooterChecks" skipped="11"
+    tests="13" time="" timestamp="">
+    
+    
+      <testcase name="Home Page is Loaded!">
+        
+        
+      </testcase>
+    
+      <testcase name="Verified City Breaks Hotel Name exists in the list, which is: Amsterdam Hotels">
+        
+          <failure message="Expected &quot;Amsterdam Hotels&quot; but got: &quot;Paris&quot;"></failure>
+        
+        
+      </testcase>
+    
+    
+      <system-err>
+        Unable to locate element: &quot;#topDestinationsList &gt; li:nth-child(1) &gt; div &gt; div.action-panel &gt; p &gt; span.rate&quot; using: css selector
+      </system-err>
+    
+    </testsuite>
+  
+</testsuites>
