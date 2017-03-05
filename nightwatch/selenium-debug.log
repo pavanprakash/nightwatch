@@ -1,0 +1,127 @@
+17:37:59.573 INFO - Selenium build info: version: '3.0.1', revision: '1969d75'
+17:37:59.573 INFO - Launching a standalone Selenium Server
+2017-03-05 17:37:59.593:INFO::main: Logging initialized @251ms
+17:37:59.649 INFO - Driver provider org.openqa.selenium.ie.InternetExplorerDriver registration is skipped:
+ registration capabilities Capabilities [{ensureCleanSession=true, browserName=internet explorer, version=, platform=WINDOWS}] does not match the current platform MAC
+17:37:59.649 INFO - Driver provider org.openqa.selenium.edge.EdgeDriver registration is skipped:
+ registration capabilities Capabilities [{browserName=MicrosoftEdge, version=, platform=WINDOWS}] does not match the current platform MAC
+17:37:59.649 INFO - Driver class not found: com.opera.core.systems.OperaDriver
+17:37:59.649 INFO - Driver provider com.opera.core.systems.OperaDriver registration is skipped:
+Unable to create new instances on this machine.
+17:37:59.649 INFO - Driver class not found: com.opera.core.systems.OperaDriver
+17:37:59.650 INFO - Driver provider com.opera.core.systems.OperaDriver is not registered
+2017-03-05 17:37:59.687:INFO:osjs.Server:main: jetty-9.2.15.v20160210
+2017-03-05 17:37:59.711:INFO:osjsh.ContextHandler:main: Started o.s.j.s.ServletContextHandler@6cc4c815{/,null,AVAILABLE}
+2017-03-05 17:37:59.742:INFO:osjs.ServerConnector:main: Started ServerConnector@7823a2f9{HTTP/1.1}{0.0.0.0:4444}
+2017-03-05 17:37:59.743:INFO:osjs.Server:main: Started @401ms
+17:37:59.743 INFO - Selenium Server is up and running
+17:38:00.012 INFO - SessionCleaner initialized with insideBrowserTimeout 0 and clientGoneTimeout 1800000 polling every 180000
+17:38:00.043 INFO - Executing: [new session: Capabilities [{acceptSslCerts=true, browserName=chrome, javascriptEnabled=true, platform=ANY}]])
+17:38:00.057 INFO - Creating a new session for Capabilities [{acceptSslCerts=true, browserName=chrome, javascriptEnabled=true, platform=ANY}]
+Starting ChromeDriver 2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9) on port 28085
+Only local connections are allowed.
+17:38:00.546 INFO - Attempting bi-dialect session, assuming Postel's Law holds true on the remote end
+17:38:01.267 INFO - Detected dialect: OSS
+17:38:01.285 INFO - Done: [new session: Capabilities [{acceptSslCerts=true, browserName=chrome, javascriptEnabled=true, platform=ANY}]]
+17:38:01.307 INFO - Executing: [get: http://sports.williamhill.com/betting/en-gb])
+17:38:04.577 INFO - Done: [get: http://sports.williamhill.com/betting/en-gb]
+17:38:04.585 INFO - Executing: [maximise window])
+17:38:05.208 INFO - Done: [maximise window]
+17:38:05.217 INFO - Executing: [find elements: By.xpath: //span[@class='account-tab__text -login']])
+17:38:05.282 INFO - Done: [find elements: By.xpath: //span[@class='account-tab__text -login']]
+17:38:05.289 INFO - Executing: [is displayed: 0 [[ChromeDriver: chrome on MAC (0c98880bd30ba30760f2b3253a9e76f4)] -> xpath: //span[@class='account-tab__text -login']]])
+17:38:05.333 INFO - Done: [is displayed: 0 [[ChromeDriver: chrome on MAC (0c98880bd30ba30760f2b3253a9e76f4)] -> xpath: //span[@class='account-tab__text -login']]]
+17:38:05.341 INFO - Executing: [find element: By.xpath: //span[@class='account-tab__text -login']])
+17:38:05.370 INFO - Done: [find element: By.xpath: //span[@class='account-tab__text -login']]
+17:38:05.375 INFO - Executing: [click: 0 [[ChromeDriver: chrome on MAC (0c98880bd30ba30760f2b3253a9e76f4)] -> xpath: //span[@class='account-tab__text -login']]])
+17:38:05.523 INFO - Done: [click: 0 [[ChromeDriver: chrome on MAC (0c98880bd30ba30760f2b3253a9e76f4)] -> xpath: //span[@class='account-tab__text -login']]]
+17:38:05.533 INFO - Executing: [find element: By.cssSelector: #loginUsernameInput])
+17:38:05.576 INFO - Done: [find element: By.cssSelector: #loginUsernameInput]
+17:38:05.583 INFO - Executing: [send keys: 1 [[ChromeDriver: chrome on MAC (0c98880bd30ba30760f2b3253a9e76f4)] -> css selector: #loginUsernameInput], [W, H, A, T, A, _, F, O, G, 2]])
+17:38:05.682 INFO - Done: [send keys: 1 [[ChromeDriver: chrome on MAC (0c98880bd30ba30760f2b3253a9e76f4)] -> css selector: #loginUsernameInput], [W, H, A, T, A, _, F, O, G, 2]]
+17:38:05.688 INFO - Executing: [find element: By.cssSelector: #loginPasswordInput])
+17:38:05.841 INFO - Done: [find element: By.cssSelector: #loginPasswordInput]
+17:38:05.848 INFO - Executing: [send keys: 2 [[ChromeDriver: chrome on MAC (0c98880bd30ba30760f2b3253a9e76f4)] -> css selector: #loginPasswordInput], [F, 0, g, U, a, T, t, e, s, t]])
+17:38:05.918 INFO - Done: [send keys: 2 [[ChromeDriver: chrome on MAC (0c98880bd30ba30760f2b3253a9e76f4)] -> css selector: #loginPasswordInput], [F, 0, g, U, a, T, t, e, s, t]]
+17:38:05.929 INFO - Executing: [find element: By.cssSelector: #loginButton])
+17:38:05.950 INFO - Done: [find element: By.cssSelector: #loginButton]
+17:38:05.954 INFO - Executing: [click: 3 [[ChromeDriver: chrome on MAC (0c98880bd30ba30760f2b3253a9e76f4)] -> css selector: #loginButton]])
+17:38:06.035 INFO - Done: [click: 3 [[ChromeDriver: chrome on MAC (0c98880bd30ba30760f2b3253a9e76f4)] -> css selector: #loginButton]]
+17:38:09.070 INFO - Executing: [find elements: By.cssSelector: #nav-Search >a])
+17:38:09.118 INFO - Done: [find elements: By.cssSelector: #nav-Search >a]
+17:38:09.122 INFO - Executing: [is displayed: 4 [[ChromeDriver: chrome on MAC (0c98880bd30ba30760f2b3253a9e76f4)] -> css selector: #nav-Search >a]])
+17:38:09.162 INFO - Done: [is displayed: 4 [[ChromeDriver: chrome on MAC (0c98880bd30ba30760f2b3253a9e76f4)] -> css selector: #nav-Search >a]]
+17:38:09.169 INFO - Executing: [find element: By.cssSelector: #nav-Search >a])
+17:38:09.196 INFO - Done: [find element: By.cssSelector: #nav-Search >a]
+17:38:09.210 INFO - Executing: [click: 4 [[ChromeDriver: chrome on MAC (0c98880bd30ba30760f2b3253a9e76f4)] -> css selector: #nav-Search >a]])
+17:38:09.274 INFO - Done: [click: 4 [[ChromeDriver: chrome on MAC (0c98880bd30ba30760f2b3253a9e76f4)] -> css selector: #nav-Search >a]]
+17:38:10.286 INFO - Executing: [find element: By.cssSelector: #search-input])
+17:38:10.309 INFO - Done: [find element: By.cssSelector: #search-input]
+17:38:10.315 INFO - Executing: [send keys: 5 [[ChromeDriver: chrome on MAC (0c98880bd30ba30760f2b3253a9e76f4)] -> css selector: #search-input], [B, o, u, r, n, e, m, o, u, t, h,  , v, s,  , W, e, s, t,  , H, a, m]])
+17:38:10.467 INFO - Done: [send keys: 5 [[ChromeDriver: chrome on MAC (0c98880bd30ba30760f2b3253a9e76f4)] -> css selector: #search-input], [B, o, u, r, n, e, m, o, u, t, h,  , v, s,  , W, e, s, t,  , H, a, m]]
+17:38:10.475 INFO - Executing: [find elements: By.xpath: //span[@class='search-events__msg']])
+17:38:10.520 INFO - Done: [find elements: By.xpath: //span[@class='search-events__msg']]
+17:38:10.525 INFO - Executing: [is displayed: 6 [[ChromeDriver: chrome on MAC (0c98880bd30ba30760f2b3253a9e76f4)] -> xpath: //span[@class='search-events__msg']]])
+17:38:10.545 INFO - Done: [is displayed: 6 [[ChromeDriver: chrome on MAC (0c98880bd30ba30760f2b3253a9e76f4)] -> xpath: //span[@class='search-events__msg']]]
+17:38:11.051 INFO - Executing: [is displayed: 6 [[ChromeDriver: chrome on MAC (0c98880bd30ba30760f2b3253a9e76f4)] -> xpath: //span[@class='search-events__msg']]])
+17:38:11.060 INFO - Done: [is displayed: 6 [[ChromeDriver: chrome on MAC (0c98880bd30ba30760f2b3253a9e76f4)] -> xpath: //span[@class='search-events__msg']]]
+17:38:11.570 INFO - Executing: [is displayed: 6 [[ChromeDriver: chrome on MAC (0c98880bd30ba30760f2b3253a9e76f4)] -> xpath: //span[@class='search-events__msg']]])
+17:38:11.582 INFO - Done: [is displayed: 6 [[ChromeDriver: chrome on MAC (0c98880bd30ba30760f2b3253a9e76f4)] -> xpath: //span[@class='search-events__msg']]]
+17:38:12.090 INFO - Executing: [is displayed: 6 [[ChromeDriver: chrome on MAC (0c98880bd30ba30760f2b3253a9e76f4)] -> xpath: //span[@class='search-events__msg']]])
+17:38:12.099 INFO - Done: [is displayed: 6 [[ChromeDriver: chrome on MAC (0c98880bd30ba30760f2b3253a9e76f4)] -> xpath: //span[@class='search-events__msg']]]
+17:38:12.607 INFO - Executing: [is displayed: 6 [[ChromeDriver: chrome on MAC (0c98880bd30ba30760f2b3253a9e76f4)] -> xpath: //span[@class='search-events__msg']]])
+17:38:12.617 INFO - Done: [is displayed: 6 [[ChromeDriver: chrome on MAC (0c98880bd30ba30760f2b3253a9e76f4)] -> xpath: //span[@class='search-events__msg']]]
+17:38:13.124 INFO - Executing: [is displayed: 6 [[ChromeDriver: chrome on MAC (0c98880bd30ba30760f2b3253a9e76f4)] -> xpath: //span[@class='search-events__msg']]])
+17:38:13.133 INFO - Done: [is displayed: 6 [[ChromeDriver: chrome on MAC (0c98880bd30ba30760f2b3253a9e76f4)] -> xpath: //span[@class='search-events__msg']]]
+17:38:13.639 INFO - Executing: [is displayed: 6 [[ChromeDriver: chrome on MAC (0c98880bd30ba30760f2b3253a9e76f4)] -> xpath: //span[@class='search-events__msg']]])
+17:38:13.648 INFO - Done: [is displayed: 6 [[ChromeDriver: chrome on MAC (0c98880bd30ba30760f2b3253a9e76f4)] -> xpath: //span[@class='search-events__msg']]]
+17:38:14.158 INFO - Executing: [is displayed: 6 [[ChromeDriver: chrome on MAC (0c98880bd30ba30760f2b3253a9e76f4)] -> xpath: //span[@class='search-events__msg']]])
+17:38:14.168 INFO - Done: [is displayed: 6 [[ChromeDriver: chrome on MAC (0c98880bd30ba30760f2b3253a9e76f4)] -> xpath: //span[@class='search-events__msg']]]
+17:38:14.173 INFO - Executing: [find elements: By.xpath: //span[@class='search-events__msg']])
+17:38:14.183 INFO - Done: [find elements: By.xpath: //span[@class='search-events__msg']]
+17:38:14.188 INFO - Executing: [get text: 6 [[ChromeDriver: chrome on MAC (0c98880bd30ba30760f2b3253a9e76f4)] -> xpath: //span[@class='search-events__msg']]])
+17:38:14.214 INFO - Done: [get text: 6 [[ChromeDriver: chrome on MAC (0c98880bd30ba30760f2b3253a9e76f4)] -> xpath: //span[@class='search-events__msg']]]
+17:38:14.219 INFO - Executing: [find element: By.cssSelector: li[class='search-events__item'] > a])
+17:38:14.240 INFO - Done: [find element: By.cssSelector: li[class='search-events__item'] > a]
+17:38:14.243 INFO - Executing: [click: 7 [[ChromeDriver: chrome on MAC (0c98880bd30ba30760f2b3253a9e76f4)] -> css selector: li[class='search-events__item'] > a]])
+17:38:14.323 INFO - Done: [click: 7 [[ChromeDriver: chrome on MAC (0c98880bd30ba30760f2b3253a9e76f4)] -> css selector: li[class='search-events__item'] > a]]
+17:38:14.328 INFO - Executing: [find elements: By.cssSelector: h1.header-panel__title])
+17:38:14.373 INFO - Done: [find elements: By.cssSelector: h1.header-panel__title]
+17:38:14.884 INFO - Executing: [find elements: By.cssSelector: h1.header-panel__title])
+17:38:14.895 INFO - Done: [find elements: By.cssSelector: h1.header-panel__title]
+17:38:14.898 INFO - Executing: [is displayed: 8 [[ChromeDriver: chrome on MAC (0c98880bd30ba30760f2b3253a9e76f4)] -> css selector: h1.header-panel__title]])
+17:38:14.917 INFO - Done: [is displayed: 8 [[ChromeDriver: chrome on MAC (0c98880bd30ba30760f2b3253a9e76f4)] -> css selector: h1.header-panel__title]]
+17:38:14.922 INFO - Executing: [find elements: By.cssSelector: h1.header-panel__title])
+17:38:14.932 INFO - Done: [find elements: By.cssSelector: h1.header-panel__title]
+17:38:14.935 INFO - Executing: [get text: 8 [[ChromeDriver: chrome on MAC (0c98880bd30ba30760f2b3253a9e76f4)] -> css selector: h1.header-panel__title]])
+17:38:14.957 INFO - Done: [get text: 8 [[ChromeDriver: chrome on MAC (0c98880bd30ba30760f2b3253a9e76f4)] -> css selector: h1.header-panel__title]]
+17:38:16.978 INFO - Executing: [find elements: By.xpath: //h2[text()='90 Minutes']/../following-sibling::*//button[@data-name='Bournemouth']])
+17:38:16.999 INFO - Done: [find elements: By.xpath: //h2[text()='90 Minutes']/../following-sibling::*//button[@data-name='Bournemouth']]
+17:38:17.002 INFO - Executing: [is displayed: 9 [[ChromeDriver: chrome on MAC (0c98880bd30ba30760f2b3253a9e76f4)] -> xpath: //h2[text()='90 Minutes']/../following-sibling::*//button[@data-name='Bournemouth']]])
+17:38:17.024 INFO - Done: [is displayed: 9 [[ChromeDriver: chrome on MAC (0c98880bd30ba30760f2b3253a9e76f4)] -> xpath: //h2[text()='90 Minutes']/../following-sibling::*//button[@data-name='Bournemouth']]]
+17:38:17.029 INFO - Executing: [find element: By.xpath: //h2[text()='90 Minutes']/../following-sibling::*//button[@data-name='Bournemouth']])
+17:38:17.051 INFO - Done: [find element: By.xpath: //h2[text()='90 Minutes']/../following-sibling::*//button[@data-name='Bournemouth']]
+17:38:17.054 INFO - Executing: [click: 9 [[ChromeDriver: chrome on MAC (0c98880bd30ba30760f2b3253a9e76f4)] -> xpath: //h2[text()='90 Minutes']/../following-sibling::*//button[@data-name='Bournemouth']]])
+17:38:17.117 INFO - Done: [click: 9 [[ChromeDriver: chrome on MAC (0c98880bd30ba30760f2b3253a9e76f4)] -> xpath: //h2[text()='90 Minutes']/../following-sibling::*//button[@data-name='Bournemouth']]]
+17:38:17.123 INFO - Executing: [find elements: By.xpath: //span[@class[contains(.,'betslip')]]/input])
+17:38:17.159 INFO - Done: [find elements: By.xpath: //span[@class[contains(.,'betslip')]]/input]
+17:38:17.665 INFO - Executing: [find elements: By.xpath: //span[@class[contains(.,'betslip')]]/input])
+17:38:17.677 INFO - Done: [find elements: By.xpath: //span[@class[contains(.,'betslip')]]/input]
+17:38:17.681 INFO - Executing: [is displayed: 10 [[ChromeDriver: chrome on MAC (0c98880bd30ba30760f2b3253a9e76f4)] -> xpath: //span[@class[contains(.,'betslip')]]/input]])
+17:38:17.701 INFO - Done: [is displayed: 10 [[ChromeDriver: chrome on MAC (0c98880bd30ba30760f2b3253a9e76f4)] -> xpath: //span[@class[contains(.,'betslip')]]/input]]
+17:38:17.706 INFO - Executing: [find element: By.xpath: //span[@class[contains(.,'betslip')]]/input])
+17:38:17.729 INFO - Done: [find element: By.xpath: //span[@class[contains(.,'betslip')]]/input]
+17:38:17.733 INFO - Executing: [send keys: 10 [[ChromeDriver: chrome on MAC (0c98880bd30ba30760f2b3253a9e76f4)] -> xpath: //span[@class[contains(.,'betslip')]]/input], [0, ., 1]])
+17:38:17.801 INFO - Done: [send keys: 10 [[ChromeDriver: chrome on MAC (0c98880bd30ba30760f2b3253a9e76f4)] -> xpath: //span[@class[contains(.,'betslip')]]/input], [0, ., 1]]
+17:38:19.810 INFO - Executing: [find element: By.xpath: //input[@id='place-bet-button']])
+17:38:20.076 INFO - Done: [find element: By.xpath: //input[@id='place-bet-button']]
+17:38:20.080 INFO - Executing: [click: 11 [[ChromeDriver: chrome on MAC (0c98880bd30ba30760f2b3253a9e76f4)] -> xpath: //input[@id='place-bet-button']]])
+17:38:21.008 INFO - Done: [click: 11 [[ChromeDriver: chrome on MAC (0c98880bd30ba30760f2b3253a9e76f4)] -> xpath: //input[@id='place-bet-button']]]
+17:38:21.013 INFO - Executing: [find elements: By.xpath: //*[@id='receipt-notice-box']])
+17:38:21.072 INFO - Done: [find elements: By.xpath: //*[@id='receipt-notice-box']]
+17:38:21.076 INFO - Executing: [is displayed: 12 [[ChromeDriver: chrome on MAC (0c98880bd30ba30760f2b3253a9e76f4)] -> xpath: //*[@id='receipt-notice-box']]])
+17:38:21.149 INFO - Done: [is displayed: 12 [[ChromeDriver: chrome on MAC (0c98880bd30ba30760f2b3253a9e76f4)] -> xpath: //*[@id='receipt-notice-box']]]
+17:38:21.153 INFO - Executing: [find elements: By.xpath: //*[@id='receipt-notice-box']])
+17:38:21.165 INFO - Done: [find elements: By.xpath: //*[@id='receipt-notice-box']]
+17:38:21.168 INFO - Executing: [get text: 12 [[ChromeDriver: chrome on MAC (0c98880bd30ba30760f2b3253a9e76f4)] -> xpath: //*[@id='receipt-notice-box']]])
+17:38:21.193 INFO - Done: [get text: 12 [[ChromeDriver: chrome on MAC (0c98880bd30ba30760f2b3253a9e76f4)] -> xpath: //*[@id='receipt-notice-box']]]
