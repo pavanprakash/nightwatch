@@ -19,7 +19,6 @@
     "port" : 4444,
     "cli_args" : {
       "webdriver.chrome.driver" : "./node_modules/.bin/chromedriver",
-      //"webdriver.chrome.driver" : "./bin/chromedriver.exe",
       "webdriver.ie.driver" : "",
       "webdriver.firefox.profile" : ""
     }
